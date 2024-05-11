@@ -1,52 +1,37 @@
 [
   {
-    "objectID": "index-template.html",
-    "href": "index-template.html",
+    "objectID": "main.html",
+    "href": "main.html",
     "title": "Nam Ho-Nguyen",
     "section": "",
-    "text": "Latest news\nI am a Senior Lecturer in the Discipline of Business Analytics at The University of Sydney Business School.\nMy research focuses on data-driven optimization models and scalable algorithms for decision making problems under uncertainty.\nPreviously, I was a Postdoctoral Research Associate (from September 2019 to May 2020) at the University of Wisconsin-Madison. I completed my PhD in 2019 at the Tepper School of Business, Carnegie Mellon University.",
-    "crumbs": [
-      "Nam Ho-Nguyen"
-    ]
+    "text": "Latest news\nI am a Senior Lecturer in the Discipline of Business Analytics at The University of Sydney Business School.\nMy research focuses on data-driven optimization models and scalable algorithms for decision making problems under uncertainty.\nPreviously, I was a Postdoctoral Research Associate (from September 2019 to May 2020) at the University of Wisconsin-Madison. I completed my PhD in 2019 at the Tepper School of Business, Carnegie Mellon University."
   },
   {
-    "objectID": "index-template.html#research",
-    "href": "index-template.html#research",
+    "objectID": "main.html#research",
+    "href": "main.html#research",
     "title": "Nam Ho-Nguyen",
     "section": "Research",
-    "text": "Research\nI employ techniques from large-scale optimization, machine learning and statistics to better understand the challenges and capabilities of decision making models under uncertainty.\nI have also worked on applied optimization tools for choice modelling, portfolio selection, electronic trading, and solution design of IT services.\n\nPreprints\n\n\nShen, L., Ho-Nguyen, N., Giang-Tran, K.-H., & Kılınç-Karzan, F. (2024). Mistake, manipulation and margin guarantees in online strategic classification. https://arxiv.org/abs/2403.18176\n\n\nGiang-Tran, K.-H., Ho-Nguyen, N., & Lee, D. (2023). Projection-free methods for solving convex bilevel optimization problems. https://arxiv.org/abs/2311.09738\n\n\nLee, D., Ho-Nguyen, N., & Lee, D. (2023a). Non-smooth, Hölder-smooth, and robust submodular maximization. https://arxiv.org/abs/2210.06061\n\n\nLee, D., Ho-Nguyen, N., & Lee, D. (2023b). Projection-free online convex optimization with stochastic constraints. https://arxiv.org/abs/2305.01333\n\n\n\n\nPublications\n\n\nGutman, D. H., & Ho-Nguyen, N. (2023). Coordinate descent without coordinates: Tangent subspace descent on Riemannian manifolds. Mathematics of Operations Research, 48(1), 127–159. https://doi.org/10.1287/moor.2022.1253\n\n\nHo-Nguyen, N., Kılınç-Karzan, F., Küçükyavuz, S., & Lee, D. (2023). Strong formulations for distributionally robust chance-constrained programs with left-hand side uncertainty under Wasserstein ambiguity. INFORMS Journal on Optimization, 5(2), 211–232. https://doi.org/10.1287/ijoo.2022.0083\n\n\nHo-Nguyen, N., & Wright, S. J. (2023). Adversarial classification via distributional robustness with Wasserstein ambiguity. Mathematical Programming, 198(2), 1411–1447. https://doi.org/10.1007/s10107-022-01796-6\n\n\nShen, L., Ho-Nguyen, N., & Kılınç-Karzan, F. (2023). An online convex optimization-based framework for convex bilevel optimization. Mathematical Programming, 198(2), 1519–1582. https://doi.org/10.1007/s10107-022-01894-5\n\n\nBenadè, G., Ho-Nguyen, N., & Hooker, J. N. (2022). Political districting without geography. Operations Research Perspectives, 9. https://doi.org/10.1016/j.orp.2022.100227\n\n\nGutman, D. H., & Ho-Nguyen, N. (2022). Cyclic coordinate descent in the Hölder smooth setting. Operations Research Letters, 50(5), 458–462. https://doi.org/10.1016/j.orl.2022.06.002\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2022). Risk guarantees for end-to-end prediction and optimization processes. Management Science, 68(12), 8680–8698. https://doi.org/10.1287/mnsc.2022.4321\n\n\nHo-Nguyen, N., Kılınç-Karzan, F., Küçükyavuz, S., & Lee, D. (2022). Distributionally robust chance-constrained programs with right-hand side uncertainty under Wasserstein ambiguity. Mathematical Programming, 196(1-2), 641–672. https://doi.org/10.1007/s10107-020-01605-y\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2021). Technical note—dynamic data-driven estimation of nonparametric choice models. Operations Research, 69(4), 1228–1239. https://doi.org/10.1287/opre.2020.2077\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2019). Exploiting problem structure in optimization under uncertainty via online convex optimization. Mathematical Programming, 177(1-2), 113–147. https://doi.org/10.1007/s10107-018-1262-8\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2018a). Online first-order framework for robust convex optimization. Operations Research, 66(6), 1670–1692. https://doi.org/10.1287/opre.2018.1764\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2018b). Primal–dual algorithms for convex optimization via regret minimization. IEEE Control Systems Letters, 2(2), 284–289. https://doi.org/10.1109/LCSYS.2018.2831721\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2017). A second-order cone based approach for solving the trust-region subproblem and its variants. SIAM Journal on Optimization, 27(3), 1485–1512. https://doi.org/10.1137/16M1065197\n\n\n\n\nPhD Dissertation\n\n\nHo-Nguyen, N. (2019). Models and Efficient Algorithms for Convex Optimization under Uncertainty. https://doi.org/10.1184/R1/9544625.v1",
-    "crumbs": [
-      "Nam Ho-Nguyen"
-    ]
+    "text": "Research\nI employ techniques from large-scale optimization, machine learning and statistics to better understand the challenges and capabilities of decision making models under uncertainty.\nI have also worked on applied optimization tools for choice modelling, portfolio selection, electronic trading, and solution design of IT services.\n\nPreprints\n\n\nShen, L., Ho-Nguyen, N., Giang-Tran, K.-H., & Kılınç-Karzan, F. (2024). Mistake, manipulation and margin guarantees in online strategic classification. https://arxiv.org/abs/2403.18176\n\n\nGiang-Tran, K.-H., Ho-Nguyen, N., & Lee, D. (2023). Projection-free methods for solving convex bilevel optimization problems. https://arxiv.org/abs/2311.09738\n\n\nLee, D., Ho-Nguyen, N., & Lee, D. (2023a). Non-smooth, Hölder-smooth, and robust submodular maximization. https://arxiv.org/abs/2210.06061\n\n\nLee, D., Ho-Nguyen, N., & Lee, D. (2023b). Projection-free online convex optimization with stochastic constraints. https://arxiv.org/abs/2305.01333\n\n\n\n\nPublications\n\n\nGutman, D. H., & Ho-Nguyen, N. (2023). Coordinate descent without coordinates: Tangent subspace descent on Riemannian manifolds. Mathematics of Operations Research, 48(1), 127–159. https://doi.org/10.1287/moor.2022.1253\n\n\nHo-Nguyen, N., Kılınç-Karzan, F., Küçükyavuz, S., & Lee, D. (2023). Strong formulations for distributionally robust chance-constrained programs with left-hand side uncertainty under Wasserstein ambiguity. INFORMS Journal on Optimization, 5(2), 211–232. https://doi.org/10.1287/ijoo.2022.0083\n\n\nHo-Nguyen, N., & Wright, S. J. (2023). Adversarial classification via distributional robustness with Wasserstein ambiguity. Mathematical Programming, 198(2), 1411–1447. https://doi.org/10.1007/s10107-022-01796-6\n\n\nShen, L., Ho-Nguyen, N., & Kılınç-Karzan, F. (2023). An online convex optimization-based framework for convex bilevel optimization. Mathematical Programming, 198(2), 1519–1582. https://doi.org/10.1007/s10107-022-01894-5\n\n\nBenadè, G., Ho-Nguyen, N., & Hooker, J. N. (2022). Political districting without geography. Operations Research Perspectives, 9. https://doi.org/10.1016/j.orp.2022.100227\n\n\nGutman, D. H., & Ho-Nguyen, N. (2022). Cyclic coordinate descent in the Hölder smooth setting. Operations Research Letters, 50(5), 458–462. https://doi.org/10.1016/j.orl.2022.06.002\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2022). Risk guarantees for end-to-end prediction and optimization processes. Management Science, 68(12), 8680–8698. https://doi.org/10.1287/mnsc.2022.4321\n\n\nHo-Nguyen, N., Kılınç-Karzan, F., Küçükyavuz, S., & Lee, D. (2022). Distributionally robust chance-constrained programs with right-hand side uncertainty under Wasserstein ambiguity. Mathematical Programming, 196(1-2), 641–672. https://doi.org/10.1007/s10107-020-01605-y\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2021). Technical note—dynamic data-driven estimation of nonparametric choice models. Operations Research, 69(4), 1228–1239. https://doi.org/10.1287/opre.2020.2077\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2019). Exploiting problem structure in optimization under uncertainty via online convex optimization. Mathematical Programming, 177(1-2), 113–147. https://doi.org/10.1007/s10107-018-1262-8\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2018a). Online first-order framework for robust convex optimization. Operations Research, 66(6), 1670–1692. https://doi.org/10.1287/opre.2018.1764\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2018b). Primal–dual algorithms for convex optimization via regret minimization. IEEE Control Systems Letters, 2(2), 284–289. https://doi.org/10.1109/LCSYS.2018.2831721\n\n\nHo-Nguyen, N., & Kılınç-Karzan, F. (2017). A second-order cone based approach for solving the trust-region subproblem and its variants. SIAM Journal on Optimization, 27(3), 1485–1512. https://doi.org/10.1137/16M1065197\n\n\n\n\nPhD Dissertation\n\n\nHo-Nguyen, N. (2019). Models and Efficient Algorithms for Convex Optimization under Uncertainty. https://doi.org/10.1184/R1/9544625.v1"
   },
   {
-    "objectID": "index-template.html#awards-and-honours",
-    "href": "index-template.html#awards-and-honours",
+    "objectID": "main.html#awards-and-honours",
+    "href": "main.html#awards-and-honours",
     "title": "Nam Ho-Nguyen",
     "section": "Awards and Honours",
-    "text": "Awards and Honours\n\nThe University of Sydney Business School Excellence in Research Award for Early Career Researchers 2022.\nINFORMS Optimization Society Young Researchers Prize 2022 (joint with Huck Gutman; citation)\nThe University of Sydney Business School Freda and Len Lansbury Early-Career Researcher Award 2021.\nGerald L. Thompson Doctoral Dissertation Award in Management Science 2019 (citation)\nHonourable Mention in the INFORMS Optimization Society Best Student Paper Prize 2018 (citation)",
-    "crumbs": [
-      "Nam Ho-Nguyen"
-    ]
+    "text": "Awards and Honours\n\nThe University of Sydney Business School Excellence in Research Award for Early Career Researchers 2022.\nINFORMS Optimization Society Young Researchers Prize 2022 (joint with Huck Gutman; citation)\nThe University of Sydney Business School Freda and Len Lansbury Early-Career Researcher Award 2021.\nGerald L. Thompson Doctoral Dissertation Award in Management Science 2019 (citation)\nHonourable Mention in the INFORMS Optimization Society Best Student Paper Prize 2018 (citation)"
   },
   {
-    "objectID": "index-template.html#teaching",
-    "href": "index-template.html#teaching",
+    "objectID": "main.html#teaching",
+    "href": "main.html#teaching",
     "title": "Nam Ho-Nguyen",
     "section": "Teaching",
-    "text": "Teaching\n\nQBUS2310 Management Science, S1 2024, S1 2023, S1 2022\nBUSS4932 Advanced Optimization for Business, S1 2024, S1 2022, S1 2021\nQBUS6820 Prescriptive Analytics: From Data to Decisions, S1 2023\nQBUS6820 Business Risk Management, S2 2021, S2 2020\nQBUS1040 Foundations of Business Analytics, S2 2022, S1 2021, S1 2020",
-    "crumbs": [
-      "Nam Ho-Nguyen"
-    ]
+    "text": "Teaching\n\nQBUS2310 Management Science, S1 2024, S1 2023, S1 2022\nBUSS4932 Advanced Optimization for Business, S1 2024, S1 2022, S1 2021\nQBUS6820 Prescriptive Analytics: From Data to Decisions, S1 2023\nQBUS6820 Business Risk Management, S2 2021, S2 2020\nQBUS1040 Foundations of Business Analytics, S2 2022, S1 2021, S1 2020"
   },
   {
-    "objectID": "index-template.html#contact-me",
-    "href": "index-template.html#contact-me",
+    "objectID": "main.html#contact-me",
+    "href": "main.html#contact-me",
     "title": "Nam Ho-Nguyen",
     "section": "Contact me",
-    "text": "Contact me\n\nOffice: Room 4142, H70 Abercrombie Building\nEmail\nCV",
-    "crumbs": [
-      "Nam Ho-Nguyen"
-    ]
+    "text": "Contact me\n\nOffice: Room 4142, H70 Abercrombie Building\nEmail\nCV"
   }
 ]
